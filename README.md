@@ -648,7 +648,7 @@ _________________________________________________________________
 # VeLA Framework
 
 ## For server installations
-- check vela-survey-web README for intallations for server
+- [check vela-survey-web README for intallations for server](https://github.com/mingyu-gif/vela-survey-web)
 
 
 ## Overview
