@@ -1,0 +1,1692 @@
+[
+  {
+    "title": "Emotion=negative, Speed=0.1",
+    "emotion": "negative",
+    "speed": 0.1,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      }
+    }
+  },
+  {
+    "title": "Emotion=negative, Speed=0.2",
+    "emotion": "negative",
+    "speed": 0.2,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.004951,
+        "reach out to take the cup": -0.013391,
+        "extend arm to reach for the cup": 0.004951,
+        "approach the cup": -0.012943
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.002476,
+        "reach out to take the cup": -0.006696,
+        "extend arm to reach for the cup": 0.002476,
+        "approach the cup": -0.006471
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.013397,
+        "reach out to take the cup": -0.005381,
+        "extend arm to reach for the cup": -0.021569,
+        "approach the cup": -0.022864
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.006698,
+        "reach out to take the cup": -0.002691,
+        "extend arm to reach for the cup": -0.010785,
+        "approach the cup": -0.011432
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.011989,
+        "reach out to take the cup": -0.023347,
+        "extend arm to reach for the cup": -0.022308,
+        "approach the cup": 0.052002
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.005994,
+        "reach out to take the cup": -0.011673,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.038593,
+        "reach out to take the cup": -0.019436,
+        "extend arm to reach for the cup": -0.006664,
+        "approach the cup": -0.020713
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.019296,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010357
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.021657,
+        "reach out to take the cup": 0.062746,
+        "extend arm to reach for the cup": 0.035951,
+        "approach the cup": -0.044433
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.010828,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017975,
+        "approach the cup": -0.022217
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.08368,
+        "reach out to take the cup": -0.022699,
+        "extend arm to reach for the cup": -0.009804,
+        "approach the cup": -0.045264
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.01135,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.014522,
+        "reach out to take the cup": 0.01225,
+        "extend arm to reach for the cup": 0.008437,
+        "approach the cup": 0.016518
+      }
+    }
+  },
+  {
+    "title": "Emotion=negative, Speed=0.3",
+    "emotion": "negative",
+    "speed": 0.3,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.007426,
+        "reach out to take the cup": -0.020086,
+        "extend arm to reach for the cup": 0.007426,
+        "approach the cup": -0.019415
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.004951,
+        "reach out to take the cup": -0.013391,
+        "extend arm to reach for the cup": 0.004951,
+        "approach the cup": -0.012943
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.020096,
+        "reach out to take the cup": -0.008071,
+        "extend arm to reach for the cup": -0.032353,
+        "approach the cup": -0.034296
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.013397,
+        "reach out to take the cup": -0.005381,
+        "extend arm to reach for the cup": -0.021569,
+        "approach the cup": -0.022864
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.017984,
+        "reach out to take the cup": -0.035021,
+        "extend arm to reach for the cup": -0.033462,
+        "approach the cup": 0.078003
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.011989,
+        "reach out to take the cup": -0.023347,
+        "extend arm to reach for the cup": -0.022308,
+        "approach the cup": 0.052002
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.05789,
+        "reach out to take the cup": -0.029153,
+        "extend arm to reach for the cup": -0.009996,
+        "approach the cup": -0.031069
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.038593,
+        "reach out to take the cup": -0.019435,
+        "extend arm to reach for the cup": -0.006664,
+        "approach the cup": -0.020713
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.032486,
+        "reach out to take the cup": 0.094119,
+        "extend arm to reach for the cup": 0.053927,
+        "approach the cup": -0.066649
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.021657,
+        "reach out to take the cup": 0.062746,
+        "extend arm to reach for the cup": 0.035951,
+        "approach the cup": -0.044433
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.12552,
+        "reach out to take the cup": -0.034048,
+        "extend arm to reach for the cup": -0.014706,
+        "approach the cup": -0.067896
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.08368,
+        "reach out to take the cup": -0.022699,
+        "extend arm to reach for the cup": -0.009804,
+        "approach the cup": -0.045264
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.029045,
+        "reach out to take the cup": 0.0245,
+        "extend arm to reach for the cup": 0.016875,
+        "approach the cup": 0.033037
+      }
+    }
+  },
+  {
+    "title": "Emotion=negative, Speed=0.4",
+    "emotion": "negative",
+    "speed": 0.4,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.009901,
+        "reach out to take the cup": -0.026781,
+        "extend arm to reach for the cup": 0.009901,
+        "approach the cup": -0.025887
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.007426,
+        "reach out to take the cup": -0.020086,
+        "extend arm to reach for the cup": 0.007426,
+        "approach the cup": -0.019415
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.026794,
+        "reach out to take the cup": -0.010762,
+        "extend arm to reach for the cup": -0.043138,
+        "approach the cup": -0.045728
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.020095,
+        "reach out to take the cup": -0.008072,
+        "extend arm to reach for the cup": -0.032354,
+        "approach the cup": -0.034296
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.023978,
+        "reach out to take the cup": -0.046694,
+        "extend arm to reach for the cup": -0.044616,
+        "approach the cup": 0.104004
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.017983,
+        "reach out to take the cup": -0.03502,
+        "extend arm to reach for the cup": -0.033462,
+        "approach the cup": 0.078003
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.077187,
+        "reach out to take the cup": -0.038871,
+        "extend arm to reach for the cup": -0.013327,
+        "approach the cup": -0.041426
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.05789,
+        "reach out to take the cup": -0.029153,
+        "extend arm to reach for the cup": -0.009995,
+        "approach the cup": -0.03107
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.043314,
+        "reach out to take the cup": 0.125492,
+        "extend arm to reach for the cup": 0.071902,
+        "approach the cup": -0.088865
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.032485,
+        "reach out to take the cup": 0.094119,
+        "extend arm to reach for the cup": 0.053926,
+        "approach the cup": -0.066649
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.16736,
+        "reach out to take the cup": -0.045397,
+        "extend arm to reach for the cup": -0.019608,
+        "approach the cup": -0.090528
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.12552,
+        "reach out to take the cup": -0.034048,
+        "extend arm to reach for the cup": -0.014706,
+        "approach the cup": -0.067896
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.043567,
+        "reach out to take the cup": 0.03675,
+        "extend arm to reach for the cup": 0.025312,
+        "approach the cup": 0.049555
+      }
+    }
+  },
+  {
+    "title": "Emotion=negative, Speed=0.5",
+    "emotion": "negative",
+    "speed": 0.5,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.012377,
+        "reach out to take the cup": -0.033477,
+        "extend arm to reach for the cup": 0.012377,
+        "approach the cup": -0.032358
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.009902,
+        "reach out to take the cup": -0.026782,
+        "extend arm to reach for the cup": 0.009902,
+        "approach the cup": -0.025886
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.033493,
+        "reach out to take the cup": -0.013452,
+        "extend arm to reach for the cup": -0.053922,
+        "approach the cup": -0.05716
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.026794,
+        "reach out to take the cup": -0.010762,
+        "extend arm to reach for the cup": -0.043138,
+        "approach the cup": -0.045728
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.029973,
+        "reach out to take the cup": -0.058368,
+        "extend arm to reach for the cup": -0.05577,
+        "approach the cup": 0.130006
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.023978,
+        "reach out to take the cup": -0.046694,
+        "extend arm to reach for the cup": -0.044616,
+        "approach the cup": 0.104005
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.096484,
+        "reach out to take the cup": -0.048589,
+        "extend arm to reach for the cup": -0.016659,
+        "approach the cup": -0.051782
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.077187,
+        "reach out to take the cup": -0.038871,
+        "extend arm to reach for the cup": -0.013327,
+        "approach the cup": -0.041426
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.054143,
+        "reach out to take the cup": 0.156865,
+        "extend arm to reach for the cup": 0.089878,
+        "approach the cup": -0.111081
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.043314,
+        "reach out to take the cup": 0.125492,
+        "extend arm to reach for the cup": 0.071902,
+        "approach the cup": -0.088865
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.2092,
+        "reach out to take the cup": -0.056746,
+        "extend arm to reach for the cup": -0.024511,
+        "approach the cup": -0.113159
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.16736,
+        "reach out to take the cup": -0.045397,
+        "extend arm to reach for the cup": -0.019609,
+        "approach the cup": -0.090527
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.058089,
+        "reach out to take the cup": 0.049,
+        "extend arm to reach for the cup": 0.033749,
+        "approach the cup": 0.066073
+      }
+    }
+  },
+  {
+    "title": "Emotion=positive, Speed=0.1",
+    "emotion": "positive",
+    "speed": 0.1,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      }
+    }
+  },
+  {
+    "title": "Emotion=positive, Speed=0.2",
+    "emotion": "positive",
+    "speed": 0.2,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.004951,
+        "reach out to take the cup": -0.013391,
+        "extend arm to reach for the cup": 0.004951,
+        "approach the cup": -0.012943
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.002476,
+        "reach out to take the cup": -0.006696,
+        "extend arm to reach for the cup": 0.002476,
+        "approach the cup": -0.006471
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.013397,
+        "reach out to take the cup": -0.005381,
+        "extend arm to reach for the cup": -0.021569,
+        "approach the cup": -0.022864
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.006698,
+        "reach out to take the cup": -0.002691,
+        "extend arm to reach for the cup": -0.010785,
+        "approach the cup": -0.011432
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.011989,
+        "reach out to take the cup": -0.023347,
+        "extend arm to reach for the cup": -0.022308,
+        "approach the cup": 0.052002
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.005994,
+        "reach out to take the cup": -0.011673,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.038593,
+        "reach out to take the cup": -0.019436,
+        "extend arm to reach for the cup": -0.006664,
+        "approach the cup": -0.020713
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.019296,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010357
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.021657,
+        "reach out to take the cup": 0.062746,
+        "extend arm to reach for the cup": 0.035951,
+        "approach the cup": -0.044433
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.010828,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017975,
+        "approach the cup": -0.022217
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.08368,
+        "reach out to take the cup": -0.022699,
+        "extend arm to reach for the cup": -0.009804,
+        "approach the cup": -0.045264
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.01135,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.014522,
+        "reach out to take the cup": 0.01225,
+        "extend arm to reach for the cup": 0.008437,
+        "approach the cup": 0.016518
+      }
+    }
+  },
+  {
+    "title": "Emotion=positive, Speed=0.3",
+    "emotion": "positive",
+    "speed": 0.3,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.007426,
+        "reach out to take the cup": -0.020086,
+        "extend arm to reach for the cup": 0.007426,
+        "approach the cup": -0.019415
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.004951,
+        "reach out to take the cup": -0.013391,
+        "extend arm to reach for the cup": 0.004951,
+        "approach the cup": -0.012943
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.020096,
+        "reach out to take the cup": -0.008071,
+        "extend arm to reach for the cup": -0.032353,
+        "approach the cup": -0.034296
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.013397,
+        "reach out to take the cup": -0.005381,
+        "extend arm to reach for the cup": -0.021569,
+        "approach the cup": -0.022864
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.017984,
+        "reach out to take the cup": -0.035021,
+        "extend arm to reach for the cup": -0.033462,
+        "approach the cup": 0.078003
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.011989,
+        "reach out to take the cup": -0.023347,
+        "extend arm to reach for the cup": -0.022308,
+        "approach the cup": 0.052002
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.05789,
+        "reach out to take the cup": -0.029153,
+        "extend arm to reach for the cup": -0.009996,
+        "approach the cup": -0.031069
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.038593,
+        "reach out to take the cup": -0.019435,
+        "extend arm to reach for the cup": -0.006664,
+        "approach the cup": -0.020713
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.032486,
+        "reach out to take the cup": 0.094119,
+        "extend arm to reach for the cup": 0.053927,
+        "approach the cup": -0.066649
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.021657,
+        "reach out to take the cup": 0.062746,
+        "extend arm to reach for the cup": 0.035951,
+        "approach the cup": -0.044433
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.12552,
+        "reach out to take the cup": -0.034048,
+        "extend arm to reach for the cup": -0.014706,
+        "approach the cup": -0.067896
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.08368,
+        "reach out to take the cup": -0.022699,
+        "extend arm to reach for the cup": -0.009804,
+        "approach the cup": -0.045264
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.029045,
+        "reach out to take the cup": 0.0245,
+        "extend arm to reach for the cup": 0.016875,
+        "approach the cup": 0.033037
+      }
+    }
+  },
+  {
+    "title": "Emotion=positive, Speed=0.4",
+    "emotion": "positive",
+    "speed": 0.4,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.009901,
+        "reach out to take the cup": -0.026781,
+        "extend arm to reach for the cup": 0.009901,
+        "approach the cup": -0.025887
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.007426,
+        "reach out to take the cup": -0.020086,
+        "extend arm to reach for the cup": 0.007426,
+        "approach the cup": -0.019415
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.026794,
+        "reach out to take the cup": -0.010762,
+        "extend arm to reach for the cup": -0.043138,
+        "approach the cup": -0.045728
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.020095,
+        "reach out to take the cup": -0.008072,
+        "extend arm to reach for the cup": -0.032354,
+        "approach the cup": -0.034296
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.023978,
+        "reach out to take the cup": -0.046694,
+        "extend arm to reach for the cup": -0.044616,
+        "approach the cup": 0.104004
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.017983,
+        "reach out to take the cup": -0.03502,
+        "extend arm to reach for the cup": -0.033462,
+        "approach the cup": 0.078003
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.077187,
+        "reach out to take the cup": -0.038871,
+        "extend arm to reach for the cup": -0.013327,
+        "approach the cup": -0.041426
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.05789,
+        "reach out to take the cup": -0.029153,
+        "extend arm to reach for the cup": -0.009995,
+        "approach the cup": -0.03107
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.043314,
+        "reach out to take the cup": 0.125492,
+        "extend arm to reach for the cup": 0.071902,
+        "approach the cup": -0.088865
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.032485,
+        "reach out to take the cup": 0.094119,
+        "extend arm to reach for the cup": 0.053926,
+        "approach the cup": -0.066649
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.16736,
+        "reach out to take the cup": -0.045397,
+        "extend arm to reach for the cup": -0.019608,
+        "approach the cup": -0.090528
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.12552,
+        "reach out to take the cup": -0.034048,
+        "extend arm to reach for the cup": -0.014706,
+        "approach the cup": -0.067896
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.043567,
+        "reach out to take the cup": 0.03675,
+        "extend arm to reach for the cup": 0.025312,
+        "approach the cup": 0.049555
+      }
+    }
+  },
+  {
+    "title": "Emotion=positive, Speed=0.5",
+    "emotion": "positive",
+    "speed": 0.5,
+    "tasks": [
+      "extend the arm to reach for the cup",
+      "reach out to take the cup",
+      "extend arm to reach for the cup",
+      "approach the cup"
+    ],
+    "row_labels": [
+      "x_base",
+      "x_pred",
+      "x_err",
+      "y_base",
+      "y_pred",
+      "y_err",
+      "z_base",
+      "z_pred",
+      "z_err",
+      "roll_base",
+      "roll_pred",
+      "roll_err",
+      "pitch_base",
+      "pitch_pred",
+      "pitch_err",
+      "yaw_base",
+      "yaw_pred",
+      "yaw_err",
+      "gripper_base",
+      "gripper_pred",
+      "gripper_err",
+      "l1_6d"
+    ],
+    "data": {
+      "x_base": {
+        "extend the arm to reach for the cup": 0.002475,
+        "reach out to take the cup": -0.006695,
+        "extend arm to reach for the cup": 0.002475,
+        "approach the cup": -0.006472
+      },
+      "x_pred": {
+        "extend the arm to reach for the cup": 0.012377,
+        "reach out to take the cup": -0.033477,
+        "extend arm to reach for the cup": 0.012377,
+        "approach the cup": -0.032358
+      },
+      "x_err": {
+        "extend the arm to reach for the cup": 0.009902,
+        "reach out to take the cup": -0.026782,
+        "extend arm to reach for the cup": 0.009902,
+        "approach the cup": -0.025886
+      },
+      "y_base": {
+        "extend the arm to reach for the cup": 0.006699,
+        "reach out to take the cup": -0.00269,
+        "extend arm to reach for the cup": -0.010784,
+        "approach the cup": -0.011432
+      },
+      "y_pred": {
+        "extend the arm to reach for the cup": 0.033493,
+        "reach out to take the cup": -0.013452,
+        "extend arm to reach for the cup": -0.053922,
+        "approach the cup": -0.05716
+      },
+      "y_err": {
+        "extend the arm to reach for the cup": 0.026794,
+        "reach out to take the cup": -0.010762,
+        "extend arm to reach for the cup": -0.043138,
+        "approach the cup": -0.045728
+      },
+      "z_base": {
+        "extend the arm to reach for the cup": 0.005995,
+        "reach out to take the cup": -0.011674,
+        "extend arm to reach for the cup": -0.011154,
+        "approach the cup": 0.026001
+      },
+      "z_pred": {
+        "extend the arm to reach for the cup": 0.029973,
+        "reach out to take the cup": -0.058368,
+        "extend arm to reach for the cup": -0.05577,
+        "approach the cup": 0.130006
+      },
+      "z_err": {
+        "extend the arm to reach for the cup": 0.023978,
+        "reach out to take the cup": -0.046694,
+        "extend arm to reach for the cup": -0.044616,
+        "approach the cup": 0.104005
+      },
+      "roll_base": {
+        "extend the arm to reach for the cup": -0.019297,
+        "reach out to take the cup": -0.009718,
+        "extend arm to reach for the cup": -0.003332,
+        "approach the cup": -0.010356
+      },
+      "roll_pred": {
+        "extend the arm to reach for the cup": -0.096484,
+        "reach out to take the cup": -0.048589,
+        "extend arm to reach for the cup": -0.016659,
+        "approach the cup": -0.051782
+      },
+      "roll_err": {
+        "extend the arm to reach for the cup": -0.077187,
+        "reach out to take the cup": -0.038871,
+        "extend arm to reach for the cup": -0.013327,
+        "approach the cup": -0.041426
+      },
+      "pitch_base": {
+        "extend the arm to reach for the cup": -0.010829,
+        "reach out to take the cup": 0.031373,
+        "extend arm to reach for the cup": 0.017976,
+        "approach the cup": -0.022216
+      },
+      "pitch_pred": {
+        "extend the arm to reach for the cup": -0.054143,
+        "reach out to take the cup": 0.156865,
+        "extend arm to reach for the cup": 0.089878,
+        "approach the cup": -0.111081
+      },
+      "pitch_err": {
+        "extend the arm to reach for the cup": -0.043314,
+        "reach out to take the cup": 0.125492,
+        "extend arm to reach for the cup": 0.071902,
+        "approach the cup": -0.088865
+      },
+      "yaw_base": {
+        "extend the arm to reach for the cup": 0.04184,
+        "reach out to take the cup": -0.011349,
+        "extend arm to reach for the cup": -0.004902,
+        "approach the cup": -0.022632
+      },
+      "yaw_pred": {
+        "extend the arm to reach for the cup": 0.2092,
+        "reach out to take the cup": -0.056746,
+        "extend arm to reach for the cup": -0.024511,
+        "approach the cup": -0.113159
+      },
+      "yaw_err": {
+        "extend the arm to reach for the cup": 0.16736,
+        "reach out to take the cup": -0.045397,
+        "extend arm to reach for the cup": -0.019609,
+        "approach the cup": -0.090527
+      },
+      "gripper_base": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_pred": {
+        "extend the arm to reach for the cup": 0.996078,
+        "reach out to take the cup": 0.996078,
+        "extend arm to reach for the cup": 0.996078,
+        "approach the cup": 0.996078
+      },
+      "gripper_err": {
+        "extend the arm to reach for the cup": 0.0,
+        "reach out to take the cup": 0.0,
+        "extend arm to reach for the cup": 0.0,
+        "approach the cup": 0.0
+      },
+      "l1_6d": {
+        "extend the arm to reach for the cup": 0.058089,
+        "reach out to take the cup": 0.049,
+        "extend arm to reach for the cup": 0.033749,
+        "approach the cup": 0.066073
+      }
+    }
+  }
+]
