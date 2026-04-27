@@ -1,0 +1,5 @@
+﻿emotion,speed,task,x_err,y_err,z_err,roll_err,pitch_err,yaw_err,gripper_err,l1_7d
+negative,0.1,extend the arm to reach for the cup,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+negative,0.1,reach out to take the cup,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+negative,0.1,extend arm to reach for the cup,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+negative,0.1,approach the cup,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+﻿emotion,speed,task,x_err,y_err,z_err,roll_err,pitch_err,yaw_err,gripper_err,l1_7d
+negative,0.3,extend the arm to reach for the cup,0.004951,0.013397,0.011989,-0.038593,-0.021657,0.08368,0.0,0.024895
+negative,0.3,reach out to take the cup,-0.013391,-0.005381,-0.023347,-0.019435,0.062746,-0.022699,0.0,0.021
+negative,0.3,extend arm to reach for the cup,0.004951,-0.021569,-0.022308,-0.006664,0.035951,-0.009804,0.0,0.014464
+negative,0.3,approach the cup,-0.012943,-0.022864,0.052002,-0.020713,-0.044433,-0.045264,0.0,0.028317
