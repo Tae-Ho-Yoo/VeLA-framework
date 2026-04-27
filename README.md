@@ -645,9 +645,9 @@ If you find our code or models useful in your work, please cite [our paper](http
 ```
 _________________________________________________________________
 
-framework
+#framework
 
-For server installations
+##For server installations
 - check vela-survey-web README for intallations for server
 
 
