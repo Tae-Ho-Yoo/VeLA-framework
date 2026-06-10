@@ -1,0 +1,100 @@
+{
+  "camera_width": 1280,
+  "camera_height": 720,
+  "monitor_port": 9000,
+  "speed_server_update_url": "http://localhost:8000/update_speed",
+  "stable_frames_required": 5,
+  "show_window": true,
+  "block_to_expected_slot": {
+    "B01": "slot_1",
+    "B02": "slot_2",
+    "B03": "slot_3",
+    "B04": "slot_4"
+  },
+  "slots": {
+    "slot_1": {
+      "name": "slot_1",
+      "polygon": [
+        [
+          100,
+          150
+        ],
+        [
+          250,
+          150
+        ],
+        [
+          250,
+          320
+        ],
+        [
+          100,
+          320
+        ]
+      ]
+    },
+    "slot_2": {
+      "name": "slot_2",
+      "polygon": [
+        [
+          280,
+          150
+        ],
+        [
+          430,
+          150
+        ],
+        [
+          430,
+          320
+        ],
+        [
+          280,
+          320
+        ]
+      ]
+    },
+    "slot_3": {
+      "name": "slot_3",
+      "polygon": [
+        [
+          460,
+          150
+        ],
+        [
+          610,
+          150
+        ],
+        [
+          610,
+          320
+        ],
+        [
+          460,
+          320
+        ]
+      ]
+    },
+    "slot_4": {
+      "name": "slot_4",
+      "polygon": [
+        [
+          640,
+          150
+        ],
+        [
+          790,
+          150
+        ],
+        [
+          790,
+          320
+        ],
+        [
+          640,
+          320
+        ]
+      ]
+    }
+  }
+}

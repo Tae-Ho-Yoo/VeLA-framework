@@ -1,0 +1,12 @@
+{
+  "user_id": "user_01",
+  "session_index": 1,
+  "time_limit": 2.5,
+  "sequence": [
+    "B03",
+    "B01",
+    "B04",
+    "B02"
+  ],
+  "description": "Example sequence. B03->slot_1, B01->slot_2, B04->slot_3, B02->slot_4."
+}

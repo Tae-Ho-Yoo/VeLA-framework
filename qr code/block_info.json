@@ -1,0 +1,98 @@
+{
+  "B001": {
+    "text": "빨강",
+    "text_meaning_color": "red",
+    "font_color": "red",
+    "condition": "congruent"
+  },
+  "B002": {
+    "text": "빨강",
+    "text_meaning_color": "red",
+    "font_color": "yellow",
+    "condition": "incongruent"
+  },
+  "B003": {
+    "text": "빨강",
+    "text_meaning_color": "red",
+    "font_color": "blue",
+    "condition": "incongruent"
+  },
+  "B004": {
+    "text": "빨강",
+    "text_meaning_color": "red",
+    "font_color": "black",
+    "condition": "incongruent"
+  },
+  "B005": {
+    "text": "노랑",
+    "text_meaning_color": "yellow",
+    "font_color": "red",
+    "condition": "incongruent"
+  },
+  "B006": {
+    "text": "노랑",
+    "text_meaning_color": "yellow",
+    "font_color": "yellow",
+    "condition": "congruent"
+  },
+  "B007": {
+    "text": "노랑",
+    "text_meaning_color": "yellow",
+    "font_color": "blue",
+    "condition": "incongruent"
+  },
+  "B008": {
+    "text": "노랑",
+    "text_meaning_color": "yellow",
+    "font_color": "black",
+    "condition": "incongruent"
+  },
+  "B009": {
+    "text": "파랑",
+    "text_meaning_color": "blue",
+    "font_color": "red",
+    "condition": "incongruent"
+  },
+  "B010": {
+    "text": "파랑",
+    "text_meaning_color": "blue",
+    "font_color": "yellow",
+    "condition": "incongruent"
+  },
+  "B011": {
+    "text": "파랑",
+    "text_meaning_color": "blue",
+    "font_color": "blue",
+    "condition": "congruent"
+  },
+  "B012": {
+    "text": "파랑",
+    "text_meaning_color": "blue",
+    "font_color": "black",
+    "condition": "incongruent"
+  },
+  "B013": {
+    "text": "검정",
+    "text_meaning_color": "black",
+    "font_color": "red",
+    "condition": "incongruent"
+  },
+  "B014": {
+    "text": "검정",
+    "text_meaning_color": "black",
+    "font_color": "yellow",
+    "condition": "incongruent"
+  },
+  "B015": {
+    "text": "검정",
+    "text_meaning_color": "black",
+    "font_color": "blue",
+    "condition": "incongruent"
+  },
+  "B016": {
+    "text": "검정",
+    "text_meaning_color": "black",
+    "font_color": "black",
+    "condition": "congruent"
+  }
+}
