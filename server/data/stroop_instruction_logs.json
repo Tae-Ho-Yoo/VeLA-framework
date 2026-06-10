@@ -1,0 +1,83 @@
+[
+  {
+    "trial": 1,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "word_meaning",
+    "criterion_label": "글자가 명시하는 색상 기준",
+    "spoken_instruction": "글자가 명시하는 색상 기준으로 분류하세요",
+    "timestamp": "2026-06-08T04:22:10.448Z"
+  },
+  {
+    "trial": 2,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "text_color",
+    "criterion_label": "글자색 기준",
+    "spoken_instruction": "글자색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:04.237Z"
+  },
+  {
+    "trial": 3,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "text_color",
+    "criterion_label": "글자색 기준",
+    "spoken_instruction": "글자색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:06.834Z"
+  },
+  {
+    "trial": 4,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "text_color",
+    "criterion_label": "글자색 기준",
+    "spoken_instruction": "글자색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:07.974Z"
+  },
+  {
+    "trial": 5,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "text_color",
+    "criterion_label": "글자색 기준",
+    "spoken_instruction": "글자색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:10.353Z"
+  },
+  {
+    "trial": 6,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "word_meaning",
+    "criterion_label": "의미색 기준",
+    "spoken_instruction": "의미색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:12.655Z"
+  },
+  {
+    "trial": 7,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "word_meaning",
+    "criterion_label": "의미색 기준",
+    "spoken_instruction": "의미색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:14.837Z"
+  },
+  {
+    "trial": 8,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "word_meaning",
+    "criterion_label": "의미색 기준",
+    "spoken_instruction": "의미색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:16.946Z"
+  },
+  {
+    "trial": 9,
+    "participantId": "P001",
+    "sessionId": "S01",
+    "criterion_code": "word_meaning",
+    "criterion_label": "의미색 기준",
+    "spoken_instruction": "의미색으로 분류하세요",
+    "timestamp": "2026-06-08T04:25:19.434Z"
+  }
+]

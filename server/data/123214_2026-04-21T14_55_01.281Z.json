@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-04-21T14:55:01.281Z",
+  "participant": {
+    "participant_id": "123214",
+    "name": "dfdfd",
+    "age": 23,
+    "gender": "male"
+  },
+  "sam": {
+    "valence": 8,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion_label": "HVHA",
+  "metadata": {
+    "app": "vela-survey-web",
+    "schema_version": 2
+  },
+  "vad": {
+    "valence": 8,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion": "positive"
+}

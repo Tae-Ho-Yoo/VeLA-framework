@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-04-14T01:25:46.175Z",
+  "participant": {
+    "participant_id": "123",
+    "name": "ㅓㅐㅓ",
+    "age": 7,
+    "gender": "male"
+  },
+  "sam": {
+    "valence": 1,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion_label": "LVHA",
+  "metadata": {
+    "app": "vela-survey-web",
+    "schema_version": 2
+  },
+  "vad": {
+    "valence": 1,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion": "negative"
+}

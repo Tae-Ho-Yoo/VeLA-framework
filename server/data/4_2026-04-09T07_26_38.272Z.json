@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-04-09T07:26:38.272Z",
+  "participant": {
+    "participant_id": "4",
+    "name": "로옿",
+    "age": 45,
+    "gender": "male"
+  },
+  "sam": {
+    "valence": 9,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion_label": "HVHA",
+  "metadata": {
+    "app": "vela-survey-web",
+    "schema_version": 2
+  },
+  "vad": {
+    "valence": 9,
+    "arousal": 5,
+    "dominance": 5
+  },
+  "emotion": "positive"
+}
